@@ -13,7 +13,6 @@
     text-align: center;
     margin: 50px 20% 0 20%;
     display: block;
-
 }
 
 .fist-text-box h3 {
@@ -72,11 +71,19 @@
     margin: 290px 400px 0 400px;
     text-align: center;
 }
+.tow-zeo{
+    margin-top: 80px;
+    margin-left: 250px;
+    position: absolute;
 
+}
+
+.thard-box .text .vejal{
+    margin-bottom: 100px;
+}
 .thard-box .text {
     width: 700px;
     height: 100px;
-    /* background-color: beige; */
     color: #fff;
     padding-top: 150px;
     text-align: left;
@@ -84,7 +91,7 @@
 }
 
 .thard-box .text h1 {
-    color: #fff;
+    color: rgb(255, 255, 255);
     font-size: 64px;
     font-weight: 500;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -107,6 +114,7 @@
 .join-btn a {
     color: #fff;
     text-decoration: none;
+    transition: 0.5s;
 }
 .join-btn a:hover{
     background-color: rgb(232, 106, 48);
@@ -114,3 +122,42 @@
     border-radius: 5px;
     color: rgb(20, 1, 27);
 }
+.detels-box{
+    font-family: serif;
+    width: 1320px;
+    height: 482px;
+    background: linear-gradient(#e0afafae, #bb3e3e00);
+    margin: 100px auto 0 auto;
+    border-radius: 9px;
+    text-align: center;
+    font-size: 35px;
+}
+.detels-box .detels{
+    padding: 150px 0 0 0;
+    font-weight: 600;
+}
+.detels-box .detels .red-text{
+    color: rgb(255, 0, 0);
+}
+.detels-box .detels .p-text{
+    padding-top: 4px;
+}
+.join-btn-two{
+    border-radius: 6px;
+    border: none;
+    background-color: #F00;
+    margin-top: 60PX;
+    padding: 13px;
+    transition: 0.5s;
+}
+.join-btn-two a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    font-weight: 600;
+}
+.join-btn-two:hover{
+    background-color: rgb(39, 11, 65);
+}
+
+

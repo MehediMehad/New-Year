@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&family=Roboto+Condensed:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-box {
+    background-image: url(resources/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    text-align: center;
+    margin: 50px 20% 0 20%;
+    display: block;
+
+}
+
+.fist-text-box h3 {
+    padding-top: 150px;
+    font-size: 32px;
+    color: #fff;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.fist-text-box h1 {
+    color: #fff;
+    font-size: 72px;
+    font-weight: 700;
+    font-family: 'Poppins';
+}
+
+/* second-box styleing*/
+.second-box {
+    text-align: center;
+    width: 650px;
+    height: 535px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 50px;
+    margin-left: 760px;
+}
+.second-box h1 {
+    color: #F00;
+    font-size: 88px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 550;
+}
+.second-box h4{
+    color: #F00;
+    font-size: 24px;
+    font-size: 500;
+}
+.second-box h2{
+    font-size: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+.second-box .new-year-pc{
+    width: 650px;
+    height: 535px;
+}
+.thard-box{
+    width: 1320px;
+    height: 600px;
+    background-image: url(resources/Vectorrr.png);
+    margin: 290px 400px 0 400px;
+    text-align: center;
+}
+.thard-box .text {
+    width: 700px;
+    height: 100px;
+    /* background-color: beige; */
+    color: #fff;
+    padding-top: 150px;
+    text-align: left;
+    margin-left: 100px;
+}
+.thard-box .text h1 {
+    color: #fff;
+    font-size: 64px;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 20px;
+}
+.thard-box .text p {
+    font-size: 18px;
+    font-weight: 400;
+}
+.join-btn{
+    width: 150px;
+}

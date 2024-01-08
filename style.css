@@ -40,33 +40,39 @@
     margin-top: 50px;
     margin-left: 760px;
 }
+
 .second-box h1 {
     color: #F00;
     font-size: 88px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 550;
 }
-.second-box h4{
+
+.second-box h4 {
     color: #F00;
     font-size: 24px;
     font-size: 500;
 }
-.second-box h2{
+
+.second-box h2 {
     font-size: 48px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 400;
 }
-.second-box .new-year-pc{
+
+.second-box .new-year-pc {
     width: 650px;
     height: 535px;
 }
-.thard-box{
+
+.thard-box {
     width: 1320px;
     height: 600px;
     background-image: url(resources/Vectorrr.png);
     margin: 290px 400px 0 400px;
     text-align: center;
 }
+
 .thard-box .text {
     width: 700px;
     height: 100px;
@@ -76,6 +82,7 @@
     text-align: left;
     margin-left: 100px;
 }
+
 .thard-box .text h1 {
     color: #fff;
     font-size: 64px;
@@ -83,10 +90,27 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-bottom: 20px;
 }
+
 .thard-box .text p {
     font-size: 18px;
     font-weight: 400;
 }
-.join-btn{
+
+.join-btn {
     width: 150px;
+    font-size: 20px;
+    border: none;
+    background: none;
+    margin-top: 30px;
+}
+
+.join-btn a {
+    color: #fff;
+    text-decoration: none;
+}
+.join-btn a:hover{
+    background-color: rgb(232, 106, 48);
+    padding: 9px;
+    border-radius: 5px;
+    color: rgb(20, 1, 27);
 }

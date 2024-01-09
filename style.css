@@ -258,7 +258,9 @@
 }
 .item-p{
     background-color: rgb(255, 255, 255);
-    margin: 300px 400px 0 400px;
+    /* margin: 300px 400px 0 400px; */
+    margin-top: 300px;
+    margin-left: 400px;
     padding: 5px;
 }
 .item-p .red-pp{
@@ -272,5 +274,67 @@
     font-size: 38px;
     margin-bottom: 20px;
 }
+.items{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    width: 1320px;
+    margin-left: 400px;
+}
+.items .img-i {
+    transition: 0.8;
+}
+.items .img-i:hover {
+    border: 4px solid rgb(0, 152, 247);
+    border-radius: 20px;
+}
+.from-box{
+    width: 1288px;
+    background-color: rgba(255, 0, 0, 0.05);;
+    margin: 100px 0 0 400px;
+    text-align: center;
+    padding-top:100px ;
+    height: 450px;
+}
+.from-box .box-h{
+    font-size: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+}
+.from-box .input{
+    margin-top: 50px;
+    margin-left: 290px;
+    font-size: 16px;
+    padding: 9px 0 9px 157px;
+    width: 300px;
+    border-radius: 30px 0 0 30px;
+    border: solid 2px red;
+    float: left;
+    height: 30px;
+}
+.from-box .button-s {
+    margin-top: 50px;
+    font-size: 25px;
+    padding: 0px 15px;
+    margin-right: -15px;
+    height: 50px;
+    width: 200px;
+    float: left;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border: solid 2px red;
+    background-color: rgb(255, 0, 0);
+    color: #fff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 300;
+    transition: 0.6s;
+}
+.from-box .button-s:hover {
+    background-color: #3636f1cc;
+    color: black;
+}
+
+
+
 
         

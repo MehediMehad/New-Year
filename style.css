@@ -77,10 +77,6 @@
     position: absolute;
 
 }
-
-.thard-box .text .vejal{
-    margin-bottom: 100px;
-}
 .thard-box .text {
     width: 700px;
     height: 100px;
@@ -95,7 +91,7 @@
     font-size: 64px;
     font-weight: 500;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .thard-box .text p {
@@ -117,7 +113,7 @@
     transition: 0.5s;
 }
 .join-btn a:hover{
-    background-color: rgb(232, 106, 48);
+    background-color: rgb(48, 112, 232);
     padding: 9px;
     border-radius: 5px;
     color: rgb(20, 1, 27);
@@ -275,7 +271,7 @@
     background-color: rgb(255, 255, 255);
     /* margin: 300px 400px 0 400px; */
     margin-top: 300px;
-    margin-left: 400px;
+    margin-left: 313px;
     padding: 5px;
 }
 .item-p .red-pp{
@@ -294,7 +290,7 @@
     display: flex;
     align-items: center;
     width: 1320px;
-    margin-left: 400px;
+    margin-left: 313px;
 }
 .items .img-i {
     transition: 0.8;
@@ -306,7 +302,7 @@
 .from-box{
     width: 1288px;
     background-color: rgba(255, 0, 0, 0.05);;
-    margin: 100px 0 0 400px;
+    margin: 100px 0 0 313px;
     text-align: center;
     padding-top:100px ;
     height: 450px;

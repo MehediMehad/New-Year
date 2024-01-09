@@ -255,7 +255,22 @@
     margin-top: 99px;
     padding-left: 710px;
     display: flex;
-
+}
+.item-p{
+    background-color: rgb(255, 255, 255);
+    margin: 300px 400px 0 400px;
+    padding: 5px;
+}
+.item-p .red-pp{
+    color: #F00;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.item-p .red-pr{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 38px;
+    margin-bottom: 20px;
 }
 
         

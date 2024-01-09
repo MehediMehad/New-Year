@@ -208,3 +208,19 @@
     margin-top: 10px;
     margin-right: 120px;
 }
+/*  */
+
+.foure{
+    height: 330px;
+    width: 1320px;
+    background-color: blanchedalmond;
+    text-align: center;
+    margin: 70px 400px 0 400px ;  
+}
+.foure .wif{
+    margin-top: 100px;
+    width: 1088px;
+    background-color: aqua;
+    margin-left: 118px;
+    align-items: center;
+}

@@ -213,14 +213,49 @@
 .foure{
     height: 330px;
     width: 1320px;
-    background-color: blanchedalmond;
+    background-color: rgb(255, 255, 255);
     text-align: center;
     margin: 70px 400px 0 400px ;  
 }
 .foure .wif{
     margin-top: 100px;
-    width: 1088px;
-    background-color: aqua;
+    background-color: rgb(255, 255, 255);
     margin-left: 118px;
     align-items: center;
+    margin-right: 103px;
 }
+
+.foure .wif .dolor .what{
+}
+.foure .wif .dolor{
+    margin-top: 50px;
+
+}
+.opsonal-part{
+    text-align: right;
+    height: 500px;
+    width: 1320px;
+    background-color: rgb(255, 255, 255);
+    margin: 0px auto;
+}
+.opsonal-part .red-img{
+    margin-top: -7px;
+}
+.opsonal-part .box-img{
+    /* background-image: linear-gradient(to bottom right, rgb(255, 254, 254), rgb(255, 247, 246)); */
+    display: flex;
+    position: absolute;
+    height: auto;
+    width: auto;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.opsonal-part .descount{
+    position: absolute;
+    margin-top: 99px;
+    padding-left: 710px;
+    display: flex;
+
+}
+
+        
